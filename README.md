@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cclifton91, you can call me Camille
 - 👀 I’m interested in front end development and Design
-- 🌱 I’m currently learning React and Angluar 
+- 🌱 I’m currently learning Python - Django 
 - 📫 How to reach me at devcclifton@gmail.com
 
 <!---
